@@ -2,4 +2,5 @@
 
 !.gitignore
 !playlist_maker.ipynb
-!Results/
+!Results
+!Results/*
